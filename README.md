@@ -2,5 +2,5 @@
 
 Please click this link to see full Product
 
-http://number-guesser-game.surge.sh
+http://portfolio-theme-v1.surge.sh
 
